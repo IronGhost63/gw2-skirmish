@@ -1,0 +1,16 @@
+{
+    "name": "ironghost63/gw2-skirmish",
+    "description": "Skirmish score processing tool for Guild Wars 2",
+    "type": "project",
+    "require": {
+        "slim/slim": "^3.6"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Jirayu Yingthawornsuk",
+            "email": "me@jirayu.in.th"
+        }
+    ],
+    "minimum-stability": "stable"
+}
